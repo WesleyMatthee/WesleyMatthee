@@ -12,7 +12,7 @@
   </div>
 </div>
   <div align="center">
-  <img src="https://www.behance.net/gallery/54617137/Illustration/modules/925265359"/>
+  <img src="https://imgur.com/ZAPTx3n"/>
 </div>
   
 
