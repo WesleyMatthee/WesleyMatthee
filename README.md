@@ -2,34 +2,31 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wesley-matthee-3659b291/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+  <div align="center">
+  <img src="https://www.behance.net/gallery/54617137/Illustration/modules/925265359" width="600" height="300"/>
+</div>
+  
 
 ### hey there 👋
 
 
-<!--
-**WesleyMatthee/WesleyMatthee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div align="center">
-  <img src="https://www.behance.net/gallery/54617137/Illustration/modules/925265359" width="600" height="300"/>
-</div>
-
-### About me 
-
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
-- 🔭 I just graduated from Lighthouse Labs Full Stack Web Dev Program.
-- 🌱 I’m currently learning Python
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
+
+
+- 🔭 I graduated from Lighthouse Labs Full Stack Web Dev Program, ready for action.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on anything of interest, I mostly care about the people I work with more than the project.
 - 💬 Ask me about animation and motion design.
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-matthee-3659b291/) 
 - ⚡ Fun fact: I love cycling and illustration!
--->
+
 
 ### Languages
 <div>
