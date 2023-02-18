@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw" width="100"/>
   </div>
 
 <div id="badges" align="center">
@@ -16,7 +16,7 @@
   
 <div align="center">
 ### hey there 👋
-</div> -->
+</div> 
 
 
 
