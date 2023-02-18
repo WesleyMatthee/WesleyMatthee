@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+  </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wesley-matthee-3659b291/">
@@ -68,4 +68,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Logo_AffinityDesigner.svg" width="64" />
   <img src="https://commons.wikimedia.org/wiki/File:Adobe_After_Effects_CC_icon.png" width="64" />
 </div>
-  </div>
+
