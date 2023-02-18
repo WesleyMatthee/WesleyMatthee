@@ -12,7 +12,7 @@
   </div>
 </div>
   <div align="center">
-  <a href="https://imgur.com/ZAPTx3n"><img src="https://i.imgur.com/ZAPTx3n.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/ZAPTx3n"><img src="https://i.imgur.com/ZAPTx3n.png" title="source: imgur.com" width="600" /></a>
 </div>
   
 
