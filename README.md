@@ -1,6 +1,5 @@
 <div id="header" align="center">
- <img src="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw>" width="200"
-      </img>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
 
 <div id="badges" align="center">
