@@ -11,9 +11,9 @@
    <img src="https://komarev.com/ghpvc/?username=WesleyMatthee&style=flat-square&color=blue" alt=""/>
   </div>
 </div>
-<!--   <div align="center">
-  <img src="https://www.behance.net/gallery/54617137/Illustration/modules/925265359" width="600" height="300"/>
-</div> -->
+  <div align="center">
+  <img src="https://www.behance.net/gallery/54617137/Illustration/modules/925265359"/>
+</div>
   
 
 
