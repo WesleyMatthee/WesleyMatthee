@@ -27,6 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-matthee-3659b291/) 
 - ⚡ Fun fact: I love cycling and illustration!
 
+---
 
 ### Languages
 <div>
@@ -66,6 +67,18 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="64" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo_AffinityPhoto.svg/2048px-Logo_AffinityPhoto.svg.png" width="64" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Logo_AffinityDesigner.svg" width="64" />
-  <img src="https://commons.wikimedia.org/wiki/File:Adobe_After_Effects_CC_icon.png" width="64" />
 </div>
+
+---
+
+### :fire: My Stats:
+
+<div>
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WesleyMatthee&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMatthee&layout=compact&bg_color=030303&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 
