@@ -7,9 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  <div align="center">
+<!--   <div align="center">
   <img src="https://www.behance.net/gallery/54617137/Illustration/modules/925265359" width="600" height="300"/>
-</div>
+</div> -->
   
 
 ### hey there 👋
@@ -20,9 +20,8 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 
-- 🔭 I graduated from Lighthouse Labs Full Stack Web Dev Program, ready for action.
+- 🔭 I'm a Lighthouse Labs Full Stack Web Dev Grad, ready for action.
 - 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on anything of interest, I mostly care about the people I work with more than the project.
 - 💬 Ask me about animation and motion design.
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-matthee-3659b291/) 
 - ⚡ Fun fact: I love cycling and illustration!
