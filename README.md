@@ -65,7 +65,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### Software : 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width="64" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="64" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="64" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo_AffinityPhoto.svg/2048px-Logo_AffinityPhoto.svg.png" width="64" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Logo_AffinityDesigner.svg" width="64" />
