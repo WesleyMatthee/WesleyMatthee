@@ -25,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about animation and motion design.
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-Wesley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-matthee-3659b291/) 
-- ⚡ Fun fact: I love cycling and illustration!
+- ⚡ Fun fact: I love cycling, walking, and illustration!
 
 ---
 
