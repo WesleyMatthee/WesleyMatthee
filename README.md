@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wesley-matthee-3659b291/">
@@ -80,5 +82,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMatthee&layout=compact&bg_color=030303&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
-
-
