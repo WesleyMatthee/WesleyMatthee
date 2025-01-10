@@ -42,8 +42,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### Frameworks : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="64" />
+  <img src="https://love2d.org/wiki/File:love-app-0.10.png" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" width="64" />
-  <img src="https://camo.githubusercontent.com/2406788a5bdbf3d900427eecd883b5aa64c45435d14239f5eba9a2a08ac8dcd3/68747470733a2f2f6a737572742e6769746875622e696f2f6a61636b732d706f7274666f6c696f2f696d616765732f636f6c6f722d657870726573732d69636f6e2532302831292e706e67" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="64" />
