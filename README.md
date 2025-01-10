@@ -31,6 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="64" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="64" />
