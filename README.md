@@ -76,8 +76,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats:
 
 <div>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WesleyMatthee&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyMatthee&layout=compact&bg_color=030303&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
   
