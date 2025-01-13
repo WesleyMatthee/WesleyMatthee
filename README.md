@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wesley-matthee-3659b291/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,11 +16,11 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 
 
-- 🔭 I'm a Lighthouse Labs Full Stack Web Dev Grad, ready for action.
-- 🌱 I’m currently learning Python.
+- 🔭 I'm a Full Stack Web Developer, ready for action.
+- 🌱 I’m currently playing in Lua and Love2D.
 - 💬 Ask me about animation and motion design.
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-Wesley-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-matthee-3659b291/) 
-- ⚡ Fun fact: I love cycling, walking, and illustration!
+- ⚡ Fun fact: I love cycling, walking, illustration and games!
 
 ---
 
