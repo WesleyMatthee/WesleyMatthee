@@ -38,7 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### Frameworks : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="64" />
-  <img src="https://love2d.org/wiki/File:love-app-0.10.png" width="64" />
+  <img src="https://github.com/love2d/love/blob/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="64" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="64" />
